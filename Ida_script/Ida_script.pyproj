@@ -28,6 +28,9 @@
     <Compile Include="data_word.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="patch_byte.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|VisualStudio|crawler" />
